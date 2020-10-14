@@ -1,2 +1,2 @@
-# class-45
-my game in progress
+# p5.play-boilerplate
+Boiler plate for p5.play
